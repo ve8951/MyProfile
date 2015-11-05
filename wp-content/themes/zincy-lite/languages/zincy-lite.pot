@@ -1,0 +1,459 @@
+# Loco Gettext template
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Zincy Lite\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: Wed Jun 24 2015 12:03:49 GMT+0545 (Nepal Standard Time)\n"
+"POT-Revision-Date: Wed Jun 24 2015 12:04:19 GMT+0545 (Nepal Standard Time)\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;"
+"__:1;_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;__ngettext_noop:1,2;"
+"_x:1,2c;_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;_nx_js:1,2,3c;"
+"esc_attr__:1;esc_html__:1;esc_attr_e:1;esc_html_e:1;esc_attr_x:1,2c;"
+"esc_html_x:1,2c;comments_number_link:2,3;t:1;st:1;trans:1;transChoice:1,2\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#: ../404.php:14
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: ../404.php:18
+msgid "It looks like nothing was found at this location."
+msgstr ""
+
+#: ../404.php:22
+msgid "404"
+msgstr ""
+
+#: ../404.php:23
+msgid "error"
+msgstr ""
+
+#: ../archive.php:24
+#, php-format
+msgid "Author: %s"
+msgstr ""
+
+#: ../archive.php:27
+#, php-format
+msgid "Day: %s"
+msgstr ""
+
+#: ../archive.php:30
+#, php-format
+msgid "Month: %s"
+msgstr ""
+
+#: ../archive.php:30
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr ""
+
+#: ../archive.php:33
+#, php-format
+msgid "Year: %s"
+msgstr ""
+
+#: ../archive.php:33
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: ../archive.php:36
+msgid "Asides"
+msgstr ""
+
+#: ../archive.php:39
+msgid "Galleries"
+msgstr ""
+
+#: ../archive.php:42
+msgid "Images"
+msgstr ""
+
+#: ../archive.php:45
+msgid "Videos"
+msgstr ""
+
+#: ../archive.php:48
+msgid "Quotes"
+msgstr ""
+
+#: ../archive.php:51
+msgid "Links"
+msgstr ""
+
+#: ../archive.php:54
+msgid "Statuses"
+msgstr ""
+
+#: ../archive.php:57
+msgid "Audios"
+msgstr ""
+
+#: ../archive.php:60
+msgid "Chats"
+msgstr ""
+
+#: ../archive.php:63
+msgid "Archives"
+msgstr ""
+
+#: ../comments.php:28
+#, php-format
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../comments.php:35 ../comments.php:52
+msgid "Comment navigation"
+msgstr ""
+
+#: ../comments.php:36 ../comments.php:53
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: ../comments.php:37 ../comments.php:54
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: ../comments.php:64
+msgid "Comments are closed."
+msgstr ""
+
+#: ../content-none.php:13
+msgid "Nothing Found"
+msgstr ""
+
+#: ../content-none.php:19
+#, php-format
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: ../content-none.php:23
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: ../content-none.php:28
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: ../content-page.php:21 ../content-single.php:23 ../content.php:115
+msgid "Pages:"
+msgstr ""
+
+#: ../content-page.php:26 ../content-single.php:30
+msgid "Edit"
+msgstr ""
+
+#: ../content.php:36 ../content.php:112
+msgid "More"
+msgstr ""
+
+#. translators: used between list items, there is a space after the comma
+#. translators: used between list items, there is a space after the comma
+#: ../content.php:126 ../content.php:136
+msgid ", "
+msgstr ""
+
+#: ../content.php:130
+#, php-format
+msgid "Posted in %1$s"
+msgstr ""
+
+#: ../content.php:140
+#, php-format
+msgid "Tagged %1$s"
+msgstr ""
+
+#: ../footer.php:67
+msgid "Free WordPress Theme"
+msgstr ""
+
+#: ../functions.php:74
+msgid "Primary Menu"
+msgstr ""
+
+#: ../header.php:67
+msgid "Menu"
+msgstr ""
+
+#: ../home.php:414
+msgid "Gallery"
+msgstr ""
+
+#: ../search.php:11
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: ../searchform.php:14 ../searchform.php:15
+msgid "Search for:"
+msgstr ""
+
+#: ../searchform.php:15
+msgid "Search content..."
+msgstr ""
+
+#: ../searchform.php:17
+msgid "Search"
+msgstr ""
+
+#: ../inc/custom-metabox.php:36
+msgid "Left sidebar"
+msgstr ""
+
+#: ../inc/custom-metabox.php:41
+msgid "Right sidebar<br/>(default)"
+msgstr ""
+
+#: ../inc/custom-metabox.php:46
+msgid "Both Sidebar"
+msgstr ""
+
+#: ../inc/custom-metabox.php:52
+msgid "No sidebar"
+msgstr ""
+
+#: ../inc/custom-metabox.php:66
+msgid "Choose Sidebar Template"
+msgstr ""
+
+#: ../inc/custom-metabox.php:87
+#, php-format
+msgid ""
+"You can set up the sidebar content <a href=\"%s\" target=\"_blank\">here</a> in "
+"Sidebar tab"
+msgstr ""
+
+#: ../inc/extras.php:64
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: ../inc/extras.php:112 ../inc/extras.php:132
+msgid "Left Sidebar"
+msgstr ""
+
+#: ../inc/extras.php:114 ../inc/extras.php:134
+msgid "Display items in the Left Sidebar of the inner pages"
+msgstr ""
+
+#: ../inc/extras.php:122
+msgid "Right Sidebar"
+msgstr ""
+
+#: ../inc/extras.php:124
+msgid "Display items in the Right Sidebar of the inner pages"
+msgstr ""
+
+#: ../inc/extras.php:142
+msgid "Footer Block One"
+msgstr ""
+
+#: ../inc/extras.php:144
+msgid "Display items in First Footer Area"
+msgstr ""
+
+#: ../inc/extras.php:152
+msgid "Footer Block Two"
+msgstr ""
+
+#: ../inc/extras.php:154
+msgid "Display items in Second Footer Area"
+msgstr ""
+
+#: ../inc/extras.php:162
+msgid "Footer Block Three"
+msgstr ""
+
+#: ../inc/extras.php:164
+msgid "Display items in Third Footer Area"
+msgstr ""
+
+#: ../inc/extras.php:172
+msgid "Footer Block Four"
+msgstr ""
+
+#: ../inc/extras.php:174
+msgid "Display items in Fourth Footer Area"
+msgstr ""
+
+#: ../inc/extras.php:182
+msgid "Above Footer Block One"
+msgstr ""
+
+#: ../inc/extras.php:184
+msgid "Display items in the left just above the footer"
+msgstr ""
+
+#: ../inc/extras.php:192
+msgid "Above Footer Block Two"
+msgstr ""
+
+#: ../inc/extras.php:194
+msgid ""
+"Display items in the middle just above the footer and replaces default "
+"gallery"
+msgstr ""
+
+#: ../inc/extras.php:202
+msgid "Above Footer Block Three"
+msgstr ""
+
+#: ../inc/extras.php:204
+msgid "Display items in the Right just above the footer and replaces Testimonials"
+msgstr ""
+
+#: ../inc/extras.php:212
+msgid "Above Footer Block Four"
+msgstr ""
+
+#: ../inc/extras.php:214
+msgid "Display items in the Right most block just above the footer"
+msgstr ""
+
+#: ../inc/template-tags.php:23
+msgid "Posts navigation"
+msgstr ""
+
+#: ../inc/template-tags.php:27
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr ""
+
+#: ../inc/template-tags.php:31
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: ../inc/template-tags.php:56
+msgid "Post navigation"
+msgstr ""
+
+#: ../inc/template-tags.php:59
+msgctxt "Previous post link"
+msgid "<span class=\"meta-nav\">&larr;</span> %title"
+msgstr ""
+
+#: ../inc/template-tags.php:60
+msgctxt "Next post link"
+msgid "%title <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: ../inc/template-tags.php:85
+#, php-format
+msgid ""
+"<span class=\"posted-on\">Posted on %1$s</span><span class=\"byline\"> by "
+"%2$s</span>"
+msgstr ""
+
+#: ../inc/admin-panel/assets/block-settings.php:17
+msgid "Block Above Footer"
+msgstr ""
+
+#: ../inc/admin-panel/assets/default-settings.php:16
+msgid "Default Settings"
+msgstr ""
+
+#: ../inc/admin-panel/assets/default-settings.php:17
+msgid "Default section provided by wordpress customizer."
+msgstr ""
+
+#: ../inc/admin-panel/assets/general-settings.php:14
+msgid "General Setting"
+msgstr ""
+
+#: ../inc/admin-panel/assets/homepage-settings.php:10
+msgid "Homepage Setting"
+msgstr ""
+
+#: ../inc/admin-panel/assets/sanitizer.php:11
+msgid "fullwidth"
+msgstr ""
+
+#: ../inc/admin-panel/assets/sanitizer.php:12
+msgid "boxed"
+msgstr ""
+
+#: ../inc/admin-panel/assets/sanitizer.php:23
+msgid "left"
+msgstr ""
+
+#: ../inc/admin-panel/assets/sanitizer.php:24
+msgid "center"
+msgstr ""
+
+#: ../inc/admin-panel/assets/sanitizer.php:25
+msgid "right"
+msgstr ""
+
+#: ../inc/admin-panel/assets/sanitizer.php:36
+msgid "default"
+msgstr ""
+
+#: ../inc/admin-panel/assets/sanitizer.php:37
+msgid "layout1"
+msgstr ""
+
+#: ../inc/admin-panel/assets/sanitizer.php:38
+msgid "layout2"
+msgstr ""
+
+#: ../inc/admin-panel/assets/sanitizer.php:49
+msgid "option1"
+msgstr ""
+
+#: ../inc/admin-panel/assets/sanitizer.php:50
+msgid "option2"
+msgstr ""
+
+#: ../inc/admin-panel/assets/sanitizer.php:61
+msgid "yes"
+msgstr ""
+
+#: ../inc/admin-panel/assets/sanitizer.php:62
+msgid "no"
+msgstr ""
+
+#: ../inc/admin-panel/assets/sanitizer.php:73
+msgid "fade"
+msgstr ""
+
+#: ../inc/admin-panel/assets/sanitizer.php:74
+msgid "slide"
+msgstr ""
+
+#: ../inc/admin-panel/assets/sanitizer.php:85
+msgid "show"
+msgstr ""
+
+#: ../inc/admin-panel/assets/sanitizer.php:86
+msgid "hide"
+msgstr ""
+
+#: ../inc/admin-panel/assets/sidebar-settings.php:19
+msgid "Sidebar Settings"
+msgstr ""
+
+#: ../inc/admin-panel/assets/slider-settings.php:11
+msgid "Slider Settings"
+msgstr ""
+
+#: ../inc/admin-panel/assets/social-link-settings.php:14
+msgid "Social Link Settings"
+msgstr ""
